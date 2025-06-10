@@ -21,9 +21,9 @@ This is a simple e-commerce website that looks and works like Amazon. I created 
 
 🖼️ Screenshots
 
-<img width="1680" alt="Screenshot 2025-06-10 at 10 19 21 PM" src="https://github.com/user-attachments/assets/1d7303fa-65ef-4e6b-a88d-4c6c5cad8eb7" />
 
 <img width="1680" alt="Screenshot 2025-06-10 at 10 19 00 PM" src="https://github.com/user-attachments/assets/de10337c-b69d-445d-840a-fc03b536286b" />
+<img width="1680" alt="Screenshot 2025-06-10 at 10 19 21 PM" src="https://github.com/user-attachments/assets/1d7303fa-65ef-4e6b-a88d-4c6c5cad8eb7" />
 
 
 

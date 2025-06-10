@@ -1,11 +1,11 @@
 🛍️ Amazon Clone
 
-This is a simple e-commerce website that looks and works like Amazon. I created this project to learn full-stack web development. Users can browse products, add them to the cart, and place orders. I built this using HTML & CSS.
+This is a simple e-commerce website that looks and works like Amazon. I created this project to learn web development. Users can browse products, add them to the cart, and place orders. I built this using HTML & CSS.
 
-⸻
+-----
 
 🚀 Features
-	•	User Sign Up / Login (with JWT)
+	•	User Sign Up / Login 
 	•	Browse products
 	•	Add to Cart
 	•	Checkout page (basic, without real payments)
@@ -14,18 +14,25 @@ This is a simple e-commerce website that looks and works like Amazon. I created 
 -----
 
 🛠️ Tech Stack
--Front-End
 
-⸻
+👉 Front-End
+
+-----
 
 🖼️ Screenshots
+
+<img width="1680" alt="Screenshot 2025-06-10 at 10 19 21 PM" src="https://github.com/user-attachments/assets/1d7303fa-65ef-4e6b-a88d-4c6c5cad8eb7" />
+
+<img width="1680" alt="Screenshot 2025-06-10 at 10 19 00 PM" src="https://github.com/user-attachments/assets/de10337c-b69d-445d-840a-fc03b536286b" />
+
+
 
 
 
 🙋‍♂️ About Me
 
 I’m Mohd Ahad, a beginner web developer passionate about building projects and improving my skills.
-📫 Reach me at:syedahad2131@gmail.com
+📫 Reach me at:[syedahad2131@gmail.com]
 
 -----
 
@@ -35,7 +42,7 @@ I’m Mohd Ahad, a beginner web developer passionate about building projects and
 	•	Responsive design for mobile
 	•	Improve security
 
-  -----
+-----
 
   📄 License
 
